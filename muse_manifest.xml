@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553260979851">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tedxiithyderabad.com" resolutions="1x" timestamp="1553266444856">
   <folder name="css">
     <file name="site_global.css" crc="44850744"/>
     <file name="past-speakers.css" crc="43103333" ref="past-speakers"/>
     <file name="nomq_past-speakers.css" crc="4244554036" ref="past-speakers"/>
-    <file name="index.css" crc="4069195347" ref="index"/>
+    <file name="index.css" crc="3943501874" ref="index"/>
     <file name="nomq_index.css" crc="50178523" ref="index"/>
     <file name="sponsors.css" crc="4080798824" ref="sponsors"/>
   </folder>
@@ -765,7 +765,7 @@
     <file name="u1901-ferr4.png" crc="3942320032" ref="index"/>
     <file name="u18944.png" crc="182956509" ref="index"/>
     <file name="u1894-r4.png" crc="4083595039" ref="index"/>
-    <file name="u2104-104.png" crc="4248356750" ref="index"/>
+    <file name="u2104-104.png" crc="3962786750" ref="index"/>
     <file name="u2109_states4.png" crc="69052287" ref="index"/>
     <file name="u2109_states-r4.png" crc="4018149" ref="index"/>
     <file name="u21614.png" crc="3901269937" ref="index"/>
@@ -807,20 +807,20 @@
     <file name="u1874-10.png" crc="141656402" ref="index"/>
     <file name="u1874-102.png" crc="63656261" ref="index"/>
     <file name="u1874-103.png" crc="436472144" ref="index"/>
-    <file name="web template bg-04-crop-u44763.png" crc="3790718442" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u1874-104.png" crc="4082893809" ref="index"/>
-    <file name="web template bg-05-crop-u44771.png" crc="461415253" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="ted front website.jpg" crc="193966413" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ted front website-u43574-fr.jpg" crc="4012329192" ref="index"/>
     <file name="ted front website-u43574-fr2.jpg" crc="3849593017" ref="index"/>
+    <file name="bg web-04-crop-u44763.png" crc="3787659869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg web-05.png" crc="474615484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4132989552" seo="true" mt="1553260956527" redirect="true"/>
+  <file name="index.html" crc="270703459" seo="true" mt="1553266421318" redirect="true"/>
   <file name="sponsors.html" crc="282584540" seo="true" mt="1552887347862" redirect="false"/>
   <file name="past-speakers.html" crc="154257364" seo="true" mt="1553079537873" redirect="true"/>
 </manifest>
