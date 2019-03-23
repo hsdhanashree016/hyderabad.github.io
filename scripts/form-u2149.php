@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'tedx@iith.ac.in',
-		'to' => 'tedx@iith.ac.in'
+		'from' => 'contact@tedxiithyderabad.com',
+		'to' => 'contact@tedxiithyderabad.com'
 	),
 	'fields' => array(
 		'custom_U2162' => array(
